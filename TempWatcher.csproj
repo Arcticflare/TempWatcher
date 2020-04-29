@@ -103,11 +103,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\MachineStatisticsOHM\MachineStatisticsOHM.csproj">
-      <Project>{70553797-7b11-4f6e-801b-9b06f499f49a}</Project>
-      <Name>MachineStatisticsOHM</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
