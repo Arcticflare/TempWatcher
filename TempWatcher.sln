@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempWatcher", "TempWatcher.csproj", "{48FFB60C-8D62-4102-8A70-B060957F50AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineStatisticsOHM", "..\MachineStatisticsOHM\MachineStatisticsOHM.csproj", "{70553797-7B11-4F6E-801B-9B06F499F49A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48FFB60C-8D62-4102-8A70-B060957F50AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48FFB60C-8D62-4102-8A70-B060957F50AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48FFB60C-8D62-4102-8A70-B060957F50AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48FFB60C-8D62-4102-8A70-B060957F50AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70553797-7B11-4F6E-801B-9B06F499F49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70553797-7B11-4F6E-801B-9B06F499F49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70553797-7B11-4F6E-801B-9B06F499F49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70553797-7B11-4F6E-801B-9B06F499F49A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A95BBD1-0D37-45AE-91E5-C80E5DC66A0B}
+	EndGlobalSection
+EndGlobal
